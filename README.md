@@ -22,3 +22,5 @@ We also observe the relation between susceptibility and the peak of 1/x at aroun
 
 The project also offers an animation in python to help understand the changes and temperature fluctuations in different temperatures as required. 
 
+What I want to continue doing is now explore the Ising model but with respect to faster and better working algorithms and then hopefully move on to more complex visualisations of the Ising model itself. This is going to be a work in progress that I hope to continue working on throughout my third semester. 
+
